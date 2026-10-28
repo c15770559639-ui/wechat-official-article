@@ -1,0 +1,16 @@
+# 任务产出（生成的稿件不入库）
+outputs/
+*.local.md
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 依赖与临时文件
+node_modules/
+__pycache__/
+*.log
+*.tmp
