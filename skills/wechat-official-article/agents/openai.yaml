@@ -1,0 +1,7 @@
+interface:
+  display_name: "公众号内容生产"
+  short_description: "根据图片生成、核验并排版公众号文章，完成后台草稿保存"
+  brand_color: "#0B6A64"
+  default_prompt: "使用 $wechat-official-article 处理今天的公众号图片素材，生成排版稿，并在我明确要求时保存到公众号草稿。"
+policy:
+  allow_implicit_invocation: true
